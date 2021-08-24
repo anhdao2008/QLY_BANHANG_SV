@@ -199,7 +199,7 @@ namespace QLY_BANHANG_SV
         {
             Close();
         }
-
+        //them người dùng
         private void btnXuat_Click(object sender, EventArgs e)
         {
             FormRPNguoiDung frpnd = new FormRPNguoiDung();
